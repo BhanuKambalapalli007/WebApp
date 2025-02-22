@@ -700,7 +700,7 @@ function wordToNumber(word) {
 // Function to fetch data from JSON server
 async function fetchDataFromJSONServer() {
     try {
-        const response = await fetch('http://localhost:3000/userInput');
+        const response = await fetch('http://localhost:4000/userInput');
         if (!response.ok) throw new Error("Failed to fetch data from the server");
 
         const data = await response.json();
@@ -728,7 +728,7 @@ async function saveToJSONServer(input, output) {
     if (output.includes("Invalid")) return; // Prevent saving invalid inputs
 
     try {
-        const response = await fetch('http://localhost:3000/userInput', {
+        const response = await fetch('http://localhost:4000/userInput', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
