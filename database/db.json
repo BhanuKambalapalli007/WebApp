@@ -1,0 +1,310 @@
+{
+  "userInput": [
+    {
+      "id": "d5dd",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-21T08:27:38.048Z"
+    },
+    {
+      "id": "4679",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:08:16.861Z"
+    },
+    {
+      "id": "516e",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T10:08:44.443Z"
+    },
+    {
+      "id": "d73e",
+      "input": "twenty",
+      "output": "20.00",
+      "timestamp": "2025-02-22T10:27:01.406Z"
+    },
+    {
+      "id": "99b3",
+      "input": "twenty",
+      "output": "20.00",
+      "timestamp": "2025-02-22T10:27:01.405Z"
+    },
+    {
+      "id": "e36e",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:27:19.923Z"
+    },
+    {
+      "id": "4878",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:27:19.924Z"
+    },
+    {
+      "id": "c2e4",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:27:41.035Z"
+    },
+    {
+      "id": "14e2",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T10:27:51.019Z"
+    },
+    {
+      "id": "0a38",
+      "input": "two hundred forty three",
+      "output": "243.00",
+      "timestamp": "2025-02-22T10:29:04.235Z"
+    },
+    {
+      "id": "a3e4",
+      "input": "",
+      "output": "Invalid input. Please provide a valid number in words.",
+      "timestamp": "2025-02-22T10:29:07.520Z"
+    },
+    {
+      "id": "b29f",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:30:29.788Z"
+    },
+    {
+      "id": "efee",
+      "input": "thirty two thousand twenty paise",
+      "output": "320.20",
+      "timestamp": "2025-02-22T10:34:29.938Z"
+    },
+    {
+      "id": "166d",
+      "input": "twenty",
+      "output": "20.00",
+      "timestamp": "2025-02-22T10:34:40.108Z"
+    },
+    {
+      "id": "aa04",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:35:14.191Z"
+    },
+    {
+      "id": "e527",
+      "input": "three",
+      "output": "3.00",
+      "timestamp": "2025-02-22T10:35:58.526Z"
+    },
+    {
+      "id": "2d33",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:54:33.857Z"
+    },
+    {
+      "id": "b507",
+      "input": "four",
+      "output": "4.00",
+      "timestamp": "2025-02-22T10:54:53.557Z"
+    },
+    {
+      "id": "7a4e",
+      "input": "five",
+      "output": "5.00",
+      "timestamp": "2025-02-22T10:55:37.070Z"
+    },
+    {
+      "id": "7848",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T10:56:26.881Z"
+    },
+    {
+      "id": "cdb6",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:00:13.065Z"
+    },
+    {
+      "id": "0334",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T11:00:39.362Z"
+    },
+    {
+      "id": "cf8d",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:01:38.983Z"
+    },
+    {
+      "id": "f57c",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:01:48.487Z"
+    },
+    {
+      "id": "eb66",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:03:25.603Z"
+    },
+    {
+      "id": "4a88",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T11:03:33.500Z"
+    },
+    {
+      "id": "cf01",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:05:01.482Z"
+    },
+    {
+      "id": "4904",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:09:18.475Z"
+    },
+    {
+      "id": "020f",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T11:09:29.773Z"
+    },
+    {
+      "id": "4bcc",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:13:05.199Z"
+    },
+    {
+      "id": "1985",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:13:52.848Z"
+    },
+    {
+      "id": "5ee7",
+      "input": "eighty six paise",
+      "output": "0.86",
+      "timestamp": "2025-02-22T11:14:14.208Z"
+    },
+    {
+      "id": "d7be",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:15:38.212Z"
+    },
+    {
+      "id": "22f7",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:15:45.451Z"
+    },
+    {
+      "id": "67ab",
+      "input": "five",
+      "output": "5.00",
+      "timestamp": "2025-02-22T11:19:50.732Z"
+    },
+    {
+      "id": "0959",
+      "input": "six",
+      "output": "6.00",
+      "timestamp": "2025-02-22T11:20:24.711Z"
+    },
+    {
+      "id": "e18b",
+      "input": "five",
+      "output": "5.00",
+      "timestamp": "2025-02-22T11:23:34.581Z"
+    },
+    {
+      "id": "b894",
+      "input": "six",
+      "output": "6.00",
+      "timestamp": "2025-02-22T11:24:28.211Z"
+    },
+    {
+      "id": "2c9d",
+      "input": "six",
+      "output": "6.00",
+      "timestamp": "2025-02-22T11:24:35.127Z"
+    },
+    {
+      "id": "bac5",
+      "input": "seven",
+      "output": "7.00",
+      "timestamp": "2025-02-22T11:25:38.797Z"
+    },
+    {
+      "id": "48df",
+      "input": "seven",
+      "output": "7.00",
+      "timestamp": "2025-02-22T11:25:51.121Z"
+    },
+    {
+      "id": "57bf",
+      "input": "eight",
+      "output": "8.00",
+      "timestamp": "2025-02-22T11:29:56.945Z"
+    },
+    {
+      "id": "0350",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:32:48.778Z"
+    },
+    {
+      "id": "638c",
+      "input": "three",
+      "output": "3.00",
+      "timestamp": "2025-02-22T11:36:57.898Z"
+    },
+    {
+      "id": "bd5c",
+      "input": "seven",
+      "output": "7.00",
+      "timestamp": "2025-02-22T11:42:14.012Z"
+    },
+    {
+      "id": "1a4d",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:48:32.794Z"
+    },
+    {
+      "id": "2119",
+      "input": "seven",
+      "output": "7.00",
+      "timestamp": "2025-02-22T11:48:45.731Z"
+    },
+    {
+      "id": "8a17",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:51:29.627Z"
+    },
+    {
+      "id": "94a9",
+      "input": "six",
+      "output": "6.00",
+      "timestamp": "2025-02-22T11:51:39.618Z"
+    },
+    {
+      "id": "ee44",
+      "input": "one",
+      "output": "1.00",
+      "timestamp": "2025-02-22T11:52:37.951Z"
+    },
+    {
+      "id": "7b3e",
+      "input": "three",
+      "output": "3.00",
+      "timestamp": "2025-02-22T11:52:43.926Z"
+    }
+  ]
+}

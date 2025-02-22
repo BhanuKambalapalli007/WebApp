@@ -1,0 +1,38 @@
+Hi everyone this is application information guide which helps to guide you regarding the
+ 1.running of application in any web browser
+ 2 Any Troubleshooting issues while handlig the project
+ 3 And Code base documentation for further queries
+
+ Steps to run the application
+-------------------------------
+     step1 :In first step run the json server into your local machine
+            If json-server not available in your local machine install json server by using the following command
+
+
+            Command to install json-server: npm install json-server("Make sure that your machine have nodejs to be pre installed")
+
+
+    step 2 : Command to run json-server into your local machine
+
+
+             Command : json-server --watch filename.json
+
+
+            It will run on your local machine on specified port number("Ex: Port3000")
+    Step 3 : After succesfully running the json-server on your local machine it gives a url which is used for api calls and to store and retrieve the data from the json server
+    Step 4 : By succesfully completing the above three steps now try to run the web application in your local machine
+
+
+
+
+Features  of Application:
+-------------------------
+   1.This application is mainly designed to convert word text into its numerical value
+   
+   2. By taking user input int the form text format and proccess the text
+
+   3. After procces the text the function will return the desired output and return to the frontend
+
+   4.After succefully text converted the input given by the user and output return from the backend both the values are stored into the json-server
+
+   5. To show the history then click on the button called "Show History".It will display all the data present from the json server
