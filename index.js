@@ -142,10 +142,7 @@ function convertWordToNumber() {
     outputElement.style.opacity = "0";
     saveToJSONServer(inputWord, outputNumber);
     setTimeout(() => {
-      //saveToJSONServer(inputWord, outputNumber);
       outputElement.style.display = "none";
     }, 10000);
   }, 10000);
-
-  //saveToJSONServer(inputWord, outputNumber);
 }
